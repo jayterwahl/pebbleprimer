@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Claude Watch</string>
+    <string name="listening">Listening...</string>
+    <string name="thinking">Thinking...</string>
+    <string name="tap_to_speak">Tap to speak</string>
+    <string name="error_speech">Speech recognition failed</string>
+    <string name="error_network">Network error</string>
+    <string name="retry">Retry</string>
+</resources>
